@@ -9,7 +9,7 @@ CAD of circuits
 
 - a complete design and implementation example 
 - with composite and observer 
-- with [Java and Python implementations](https://github.com/disseny-de-software/cad_circuits)
+- with [Java and Python implementations](https://github.com/mat-cad/cad_circuits)
 
 ![bg right:50%](figures/binary_addition.png)
 
